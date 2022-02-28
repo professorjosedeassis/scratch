@@ -1,5 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/scratch)
 
+![scratch](https://github.com/professorjosedeassis/scratch/blob/main/assets/scratch.png?raw=true)
+
 # MIT Scratch e App Inventor
 Aprenda a programar de forma simples e divertida usando uma linguagem de programação visual.
 ### Autor
