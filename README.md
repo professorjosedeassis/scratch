@@ -7,7 +7,7 @@ Aprenda a programar de forma simples e divertida usando uma linguagem de program
 ### Autor
 Professor José de Assis
 ### Iniciar tutorial:
-[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqwYC3FRNCDHdR_HHHqJqSJK)
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqwYC3FRNCDHdR_HHHqJqSJK)
 ## Como apoiar os tutoriais e projetos?
 ### Você pode me pagar um café! ☕
 
